@@ -54,3 +54,4 @@ jobs:
           git commit -m "Updated by Github Bot" || exit 0
           git push origin master
 
+runs-on: self-hosted
